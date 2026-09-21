@@ -40,10 +40,14 @@ text
       40
      /
     30
+
+    
 Arthur Arraes 
 Natan Adriel
 Matheus Enrico
 Ivo Gustavo
+
+
 Link do jogo (BST-AVL)
 https://visualgo.net/en/bst
 
