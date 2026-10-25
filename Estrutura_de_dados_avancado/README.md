@@ -47,11 +47,11 @@ https://visualgo.net/en/bst
     
 Arthur Arraes
 
-Natan Adriel
+Natan Adriel / https://github.com/natanllr
 
-Matheus Enrico
+Matheus Enrico / https://github.com/matheuspeters2006-afk/Estrutura_de_dados_2/blob/main/estrutura_de_dados_avancado/Aula_arvores_ed2_11set2026.pdf
 
-Ivo Gustavo
+Ivo Gustavo / https://github.com/Gustahz/Estrutura_de_Dados_II
 
 
 
