@@ -1,57 +1,25 @@
-Revisão de Estruturas de Árvores 🌳
+# Revisão de Estrutura de Árvores 🌳
 
-Este repositório contém a entrega da atividade individual de revisão teórica sobre Estruturas de Dados em Árvores. A atividade tem como foco explorar, comparar e compreender as propriedades e aplicações dos principais tipos de árvores utilizados na computação.
+Este repositório contém a resolução da atividade individual remota e assíncrona da disciplina de **Estrutura de Dados II**, ministrada pela **Profa. Kadidja Valéria**.
 
-📋 Informações Gerais
+## 👤 Aluno
+**Nome:** Arthur Arraes Antunes
 
-Aluno: Arthur Arraes Antunes
+## 🎯 Objetivos de Aprendizagem
+* Retomar os conceitos fundamentais de árvores (nó, raiz, pai, filho, folha, altura e percurso).
+* Diferenciar as regras, propriedades e aplicações de diversos tipos de árvores (Árvore Geral, Árvore Binária, ABB, AVL, Rubro-negra, B, B+, Heap e Trie).
+* Relacionar analogias do cotidiano às propriedades técnicas de cada estrutura de dados.
+* Justificar a escolha de uma árvore para problemas específicos.
 
-Disciplina: Estrutura de Dados II
+## 🗂️ Estrutura da Atividade
+A resolução foi dividida em três etapas principais, que estão consolidadas no documento final:
+1. **Etapa 1 — Revisão Bibliográfica:** Resumo sobre como os dados são organizados, propriedades mantidas, operações de busca/inserção e contextos de uso de cada estrutura.
+2. **Etapa 2 — Quadro Comparativo:** Tabela detalhando e comparando as características das árvores estudadas, com base na bibliografia.
+3. **Etapa 3 — Identificação por Analogias:** Análise de situações cotidianas para identificar a estrutura correspondente, com justificativa técnica e apontamento dos limites de cada comparação.
 
-Professora: Profa. Kadidja Valéria
+## 📄 Arquivos do Projeto
+* [`arthur_arraes_antunes_revisao.pdf`](./arthur_arraes_antunes_revisao.pdf): Documento completo com as respostas das Etapas 1, 2 e 3.
 
-Modalidade: Individual, remota e assíncrona
-
-🎯 Objetivos de Aprendizagem
-
-Retomar e consolidar conceitos básicos de árvores (nó, raiz, pai, filho, folha, altura e percursos).
-
-Diferenciar as regras, propriedades principais e casos de uso de diversos tipos de árvores.
-
-Relacionar analogias do mundo real às propriedades técnicas de cada estrutura.
-
-Justificar tecnicamente a escolha de uma árvore para resolver um problema específico.
-
-📂 Estrutura da Atividade
-
-A resolução foi dividida em três etapas principais (disponíveis no arquivo PDF deste repositório):
-
-Revisão Bibliográfica: Definição com as próprias palavras dos conceitos básicos sobre árvores gerais, binárias, de busca (ABB), balanceadas (AVL e Rubro-negra), árvores B/B+, Heaps e Tries.
-
-Quadro Comparativo: Uma tabela consolidando como cada estrutura organiza seus dados, suas regras principais, as operações de ajuste (como rotações ou splits) e exemplos reais de aplicação.
-
-Identificação por Analogias: Análise de 7 cenários lúdicos cotidianos, associando-os à estrutura de árvore correspondente, justificando tecnicamente a escolha e apontando o limite de cada analogia.
-
-🧠 Estruturas Abordadas
-
-Árvore Geral e Árvore Binária
-
-Árvore Binária de Busca (ABB)
-
-Árvore AVL
-
-Árvore Rubro-negra
-
-Árvores B e B+
-
-Heap (Max/Min)
-
-Trie (Árvore de Prefixos)
-
-📚 Referências Bibliográficas
-
-CORMEN, T. H. et al. Algoritmos: Teoria e Prática. 3ª edição. Rio de Janeiro: Elsevier, 2012. (Capítulos 6, 12, 13 e 18).
-
-Materiais e notas de aula disponibilizados pela disciplina de Estrutura de Dados II.
-
-Atividade realizada em 28/09 - UDF
+## 📚 Referências Bibliográficas Principais
+* Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2012). *Algoritmos: Teoria e Prática*.
+* Materiais de apoio e aulas disponibilizados na disciplina de Estrutura de Dados II.
