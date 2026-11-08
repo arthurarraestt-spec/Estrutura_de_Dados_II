@@ -118,3 +118,108 @@ A professora apresentará dois grafos para comparação.
 **Faça:**
 - [ ] Compare a quantidade de vértices.
 - [ ] Compare a quantidade de arestas.
+- [ ] Observe os graus dos vértices.
+- [ ] Procure uma correspondência entre os vértices dos dois grafos.
+- [ ] Verifique se as adjacências são preservadas.
+- [ ] Registre o mapeamento encontrado.
+- [ ] Conclua, justificadamente, se os grafos são isomorfos.
+
+**Registro sugerido:**
+
+| Vértice do grafo G | Vértice correspondente no grafo H |
+| :---: | :---: |
+| | |
+| | |
+| | |
+
+> 📌 **Nota:** Não considere apenas a aparência dos desenhos. Grafos desenhados de formas diferentes podem apresentar a mesma estrutura.
+
+**Plataformas:** Papel; Graph Online; diagrams.net.
+
+---
+
+## 8. Atividade 6 - Construindo subgrafos
+A partir do grafo `G` indicado pela professora, construa dois subgrafos diferentes.
+
+**Faça:** Para cada subgrafo:
+- [ ] Informe o conjunto de vértices.
+- [ ] Informe o conjunto de arestas.
+- [ ] Desenhe o subgrafo.
+- [ ] Confirme que seus vértices e arestas pertencem ao grafo original.
+
+**Registro:**
+
+**Subgrafo G1**
+- `V1 = { }`
+- `E1 = { }`
+
+**Subgrafo G2**
+- `V2 = { }`
+- `E2 = { }`
+
+**Plataformas:** Graph Online; diagrams.net; papel; Google Colab com NetworkX.
+
+---
+
+## 9. Atividade 7 - Desafio da sequência de graus
+Construa um grafo simples de acordo com a sequência de graus indicada pela professora.
+
+**Faça:**
+- [ ] Crie os vértices necessários.
+- [ ] Adicione as arestas progressivamente.
+- [ ] Calcule o grau de cada vértice.
+- [ ] Organize os graus em ordem não decrescente.
+- [ ] Compare a sequência obtida com a sequência solicitada. Caso não coincida, revise as arestas.
+
+**Registro:**
+
+| Vértice | Grau |
+| :---: | :---: |
+| | |
+| | |
+
+**Sequência final de graus:** `( ______________________________ )`
+
+**Plataformas:** Papel; Graph Online; Python/NetworkX no Google Colab.
+
+---
+
+## 10. Plataformas recomendadas
+- **Graph Online:** Indicado para construção visual rápida de grafos e exploração das conexões.
+- **diagrams.net:** Indicado para desenhar grafos, redes, mapas simplificados e modelos de situações-problema.
+- **Graphviz:** Indicado para representar grafos por meio de uma descrição textual/código.
+- **Google Colab + Python/NetworkX:** Indicado para relacionar os conceitos da Teoria dos Grafos à implementação computacional.
+- **Canva:** Pode ser utilizado nas atividades de modelagem predominantemente visual.
+- **Papel e lápis:** Continua sendo uma opção adequada para os exercícios conceituais e para os primeiros esboços.
+
+---
+
+## 11. Entrega das atividades
+Ao final da aula, entregue um único documento contendo:
+- Nome do estudante ou integrantes da dupla.
+- Identificação das atividades.
+- Desenhos dos grafos.
+- Conjuntos `V` e `E`, quando solicitados.
+- Cálculos, respostas e justificativas.
+- Captura de tela ou link, quando utilizada uma plataforma digital.
+
+---
+
+## 12. Checklist de revisão
+- [ ] Identifiquei corretamente vértices e arestas.
+- [ ] Diferenciei grafo dirigido e não dirigido.
+- [ ] Identifiquei incidência e adjacência.
+- [ ] Calculei os graus quando solicitado.
+- [ ] Considerei o laço corretamente no cálculo do grau.
+- [ ] Utilizei setas nos grafos dirigidos.
+- [ ] Justifiquei a análise de isomorfismo.
+- [ ] Identifiquei corretamente os subgrafos.
+- [ ] Conferi a sequência de graus.
+- [ ] Revisei os desenhos e as justificativas.
+- [ ] Registrei a plataforma utilizada.
+
+---
+
+## 13. Referência
+> GOMES, Paulo César Rodacki. **Grafos: conceitos fundamentais, algoritmos e aplicações.** Blumenau: Editora IFC, 2022.  
+> *Material de apoio elaborado a partir do Capítulo 1 - Conceitos Fundamentais.*
