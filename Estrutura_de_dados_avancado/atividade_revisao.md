@@ -17,9 +17,7 @@ A resolução foi dividida em três etapas principais, que estão consolidadas n
 2. **Etapa 2 — Quadro Comparativo:** Tabela detalhando e comparando as características das árvores estudadas, com base na bibliografia.
 3. **Etapa 3 — Identificação por Analogias:** Análise de situações cotidianas para identificar a estrutura correspondente, com justificativa técnica e apontamento dos limites de cada comparação.
 
-## 📄 Arquivos do Projeto
-* [`arthur_arraes_antunes_revisao.pdf`](./arthur_arraes_antunes_revisao.pdf): Documento completo com as respostas das Etapas 1, 2 e 3.
-
 ## 📚 Referências Bibliográficas Principais
 * Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2012). *Algoritmos: Teoria e Prática*.
 * Materiais de apoio e aulas disponibilizados na disciplina de Estrutura de Dados II.
+* Importante: só foi utilizado IA para a formatação do pdf todo o material escrito foi feito por mim e depois formatado pela IA(Gemini). 
