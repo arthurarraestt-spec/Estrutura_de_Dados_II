@@ -147,9 +147,9 @@ O desenvolvimento deste projeto proporcionou conhecimentos práticos sobre:
 Projeto desenvolvido por:
 
 - Arthur Arraes
-- Natan Adriel
-- Ivo Gustavo
-- Matheus Enrico
+- Natan Adriel / https://github.com/natanllr
+- Ivo Gustavo / https://github.com/Gustahz
+- Matheus Enrico / https://github.com/matheuspeters2006-afk
 
 **Instituição:** UDF – Centro Universitário  
 **Disciplina:** Estrutura de Dados II  
