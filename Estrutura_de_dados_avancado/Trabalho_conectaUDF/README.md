@@ -150,6 +150,7 @@ Projeto desenvolvido por:
 - Natan Adriel / https://github.com/natanllr
 - Ivo Gustavo / https://github.com/Gustahz
 - Matheus Enrico / https://github.com/matheuspeters2006-afk
+- OBS: IA só foi utilizada para formatação do pdf!
 
 **Instituição:** UDF – Centro Universitário  
 **Disciplina:** Estrutura de Dados II  
